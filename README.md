@@ -1,6 +1,6 @@
 # Sri-Akshaya-S
 # 💫 About Me:
-👋 Hi there! Welcome to my GitHub!<br><br>🎨 Passionate UI/UX designer & web developer 💻<br><br> Currently working as Java Full stack Development Intern @ Shiash Info Solutions Private Limited <br><br>🌟 Skills: HTML, CSS, JS, PHP, MySQL, SQL, Java, ASP.NET<br><br>🚀 Currently diving into MERN stack & cloud computing ☁️<br><br>🤝 Open to collaborations on UI/UX & web dev projects<br><br>🌱 Always learning & exploring new technologies<br><br>📚 When not coding, you'll find me dancing ,exploring or reading<br><br>Let's connect and build something awesome together! 🚀
+👋 Hi there! Welcome to my GitHub!<br><br>🎨 Passionate UI/UX designer,FullStack Developer 💻<br><br>Worked as Java Full stack Development Intern @ Shiash Info Solutions Private Limited <br><br>🌟 Skills: HTML, CSS, JS, PHP, MySQL, SQL, Java, ASP.NET,Figma<br><br>🚀 Currently diving into MERN stack & cloud computing ☁️<br><br>🤝 Open to collaborations on UI/UX & web dev projects<br><br>🌱 Always learning & exploring new technologies<br><br>📚 When not coding, you'll find me dancing ,exploring or reading<br><br>Let's connect and build something awesome together! 🚀
 
 
 ## 🌐 Socials:
